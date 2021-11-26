@@ -25,7 +25,6 @@
 # ]
 
 
-
 class Grid
   def colocacion()
     # definicion de variantes locales dentro de la clase
