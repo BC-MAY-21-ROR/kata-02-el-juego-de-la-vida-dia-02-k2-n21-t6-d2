@@ -72,11 +72,6 @@ class Grid
     table
   end
 
-  # def initialize(raza, nombre)
-  #   # atributos
-  #   @raza = raza
-  #   @nombre = nombre
-  # end
 end
 
 # aqui pedimos los datos al usuario y creamos los grid dependiendo como lo pida el usuario
